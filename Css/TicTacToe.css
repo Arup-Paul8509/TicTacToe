@@ -85,7 +85,7 @@ body
 {
 	opacity:75%;
 }
-@media screen and (max-width:300px){
+/*@media screen and (max-width:300px){
 	.container
 	{
 		height:450px;
@@ -105,4 +105,4 @@ body
 	{
 		font-size:60px;
 	}
-}
+}*/
